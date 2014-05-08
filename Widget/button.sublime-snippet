@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<input type="button" value="${1:value}" />
+]]></content>
+    <tabTrigger>jqmbtn</tabTrigger>
+    <scope>text.html</scope>
+    <description>jQueryMobile 1.4.2 - Button</description>
+</snippet>

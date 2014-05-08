@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui-input-btn ui-btn ui-corner-all ui-shadow">
+    ${1:label}
+    <input type="button" data-enhanced="true" value="${2:value}">
+</div>
+]]></content>
+    <tabTrigger>jqmbtn-e</tabTrigger>
+    <scope>text.html</scope>
+    <description>jQueryMobile 1.4.2 - Button Enhanced</description>
+</snippet>
