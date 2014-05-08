@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div role="main" class="ui-content">
+    ${1}
+</div><!-- /content -->
+]]></content>
+    <tabTrigger>jqmcontent</tabTrigger>
+    <scope>text.html</scope>
+    <description>jQueryMobile 1.4.2 - content</description>
+</snippet>

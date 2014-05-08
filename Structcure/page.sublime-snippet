@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<div data-role="page">
+    <div data-role="header">
+        <h1>${1:Header}</h1>
+    </div><!-- /header -->
+
+    <div role="main" class="ui-content">
+        ${3}
+    </div><!-- /content -->
+
+    <div data-role="footer">
+        ${2:Footer}
+    </div><!-- /footer -->
+</div><!-- /page -->
+]]></content>
+    <tabTrigger>jqmpage</tabTrigger>
+    <scope>text.html</scope>
+    <description>jQueryMobile 1.4.2 - page</description>
+</snippet>

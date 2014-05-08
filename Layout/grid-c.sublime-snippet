@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui-grid-c">
+    <div class="ui-block-a">
+        ${1}
+    </div>
+    <div class="ui-block-b">
+        ${2}
+    </div>
+    <div class="ui-block-c">
+        ${3}
+    </div>
+    <div class="ui-block-d">
+        ${4}
+    </div>
+</div><!-- /grid-c -->
+]]></content>
+    <tabTrigger>jqmgridc</tabTrigger>
+    <scope>text.html</scope>
+    <description>jQueryMobile 1.4.2 - grid-c</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div data-role="header">
+    <h1>${1:Header}</h1>
+</div><!-- /header -->
+]]></content>
+    <tabTrigger>jqmheader</tabTrigger>
+    <scope>text.html</scope>
+    <description>jQueryMobile 1.4.2 - header</description>
+</snippet>

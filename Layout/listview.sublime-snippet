@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<ul data-role="listview" data-divider-theme="a">
+    <li data-role="list-divider">${1:Section1}</li>
+    <li>${2}</li>
+    <li>${3}</li>
+</ul>
+]]></content>
+    <tabTrigger>jqmlist</tabTrigger>
+    <scope>text.html</scope>
+    <description>jQueryMobile 1.4.2 - Listview</description>
+</snippet>
