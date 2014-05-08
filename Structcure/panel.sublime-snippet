@@ -1,10 +1,10 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 <div data-role="panel" id="${1:panel-id}">
     ${2}
 </div><!-- /panel -->
 ]]></content>
-	<tabTrigger>jqmpanel</tabTrigger>
-	<scope>text.html</scope>
+    <tabTrigger>jqmpanel</tabTrigger>
+    <scope>text.html</scope>
     <description>jQueryMobile 1.4.2 - panel</description>
 </snippet>

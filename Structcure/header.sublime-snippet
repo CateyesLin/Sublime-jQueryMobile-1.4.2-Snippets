@@ -1,13 +1,10 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 <div data-role="header">
-	<h1>${0:Header}</h1>
+    <h1>${1:Header}</h1>
 </div><!-- /header -->
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>jqmheader</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
-	<!-- Optional: Description to show in the menu -->
+    <tabTrigger>jqmheader</tabTrigger>
+    <scope>text.html</scope>
     <description>jQueryMobile 1.4.2 - header</description>
 </snippet>

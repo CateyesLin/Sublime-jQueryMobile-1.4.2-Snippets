@@ -1,13 +1,10 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 <div role="main" class="ui-content">
-	${0}
+    ${1}
 </div><!-- /content -->
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>jqmcontent</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
-	<!-- Optional: Description to show in the menu -->
+    <tabTrigger>jqmcontent</tabTrigger>
+    <scope>text.html</scope>
     <description>jQueryMobile 1.4.2 - content</description>
 </snippet>
